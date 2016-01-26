@@ -8,3 +8,6 @@ There are 5 different classes:
 - Board (Tauler): Initializes the board, uncovers a box and determine wether there was a mine or not. And it paints the board when asked.
 - Box (Casella): It manages a box. It has attributes to know if it has a mine and wether it is uncovered or not. It paints itself according to its attributes when required by the board.
 - Score (Puntacions): It manages the text file with the scores. It saves a new games, loads the old games when it is open and orders the scores by name, level or score.
+
+# Execution intructions
+There is a .exe file which can be straightly executed.
